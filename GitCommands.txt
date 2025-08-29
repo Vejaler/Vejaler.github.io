@@ -1,0 +1,27 @@
+# Inquire username and email
+git config user.name
+git config user.email
+
+
+# This will only affect this one project.
+git config user.name "Vejaler"
+git config user.email "youremail@vejaler.com"  # use the email tied to Vejaler's GitHub account
+
+
+
+# Set globally for all future repos:
+git config --global user.name "Vejaler"
+git config --global user.email "youremail@vejaler.com"
+
+
+
+
+git add .
+# or sepcific files
+git add File1 File2
+
+
+git commit -m "Updated homepage and added blog post"
+
+
+git push
