@@ -16,3 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Vejaler is a commercial rendering engine built using Vulkan API. This engine is targeted for developers who want to build their own applications, simulations or video games, and want to save time by using or building on top of my engine. 
