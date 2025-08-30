@@ -5,8 +5,8 @@ permalink: /
 subtitle:
 
 profile:
-  align:
-  image:
+  align: right
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -20,9 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 #### Vejaler is a commercial rendering engine built using the Vulkan API, designed for developers who want control over their graphics pipeline without starting from scratch.
 
-#### Whether you're building a video game, simulation, or interactive 3D application, Vejaler helps you save time by providing a robust foundation that you can build on or extend. 
-
-#### It is ideal for experienced developers looking to bypass boilerplate code and focus on the creative and technical aspects of their project.
 
 <br>
 
@@ -33,3 +30,5 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <br>
+
+#### Whether you're building a video game, simulation, or interactive 3D application, Vejaler helps you save time by providing a robust foundation that you can build on or extend. It is ideal for experienced developers looking to bypass boilerplate code and focus on the creative and technical aspects of their project.
