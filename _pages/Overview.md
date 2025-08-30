@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/Scenes/3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/Scenes/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
