@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: Overview
 title: Overview
 permalink: /
 subtitle:
@@ -18,11 +18,11 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-Vejaler is a commercial rendering engine built using the Vulkan API, designed for developers who want control over their graphics pipeline without starting from scratch.
+#### Vejaler is a commercial rendering engine built using the Vulkan API, designed for developers who want control over their graphics pipeline without starting from scratch.
 
-Whether you're building a video game, simulation, or interactive 3D application, Vejaler helps you save time by providing a robust foundation that you can build on or extend. 
+#### Whether you're building a video game, simulation, or interactive 3D application, Vejaler helps you save time by providing a robust foundation that you can build on or extend. 
 
-It is ideal for experienced developers looking to bypass boilerplate code and focus on the creative and technical aspects of their project.
+#### It is ideal for experienced developers looking to bypass boilerplate code and focus on the creative and technical aspects of their project.
 
 <br>
 

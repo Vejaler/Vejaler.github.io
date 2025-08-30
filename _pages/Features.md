@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Features
-permalink: /portfolio/
+permalink: /Features/
 description:
 nav: true
 nav_order: 2
