@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Buy
 permalink: /Buy/
 description:
 nav: true

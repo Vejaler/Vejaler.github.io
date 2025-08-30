@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Features
 permalink: /Features/
 description:
 nav: true
